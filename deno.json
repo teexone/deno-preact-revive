@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "lib": ["dom", "es2015"]
+    },
+    "importMap": "./import_map.json"
+}

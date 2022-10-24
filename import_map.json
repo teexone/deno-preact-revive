@@ -1,0 +1,7 @@
+{
+    "imports": {
+        "preact": "https://esm.sh/preact",
+        "preact/": "https://esm.sh/preact/",
+        "lodash": "https://deno.land/x/lodash/"
+    }
+}
